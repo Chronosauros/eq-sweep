@@ -4,12 +4,13 @@
 
 <p align="center">
   An Android app for tuning your headphones by ear.<br>
-  <b>Coming soon to Google Play.</b>
+  <b>Coming soon to Google Play - free, with no ads.</b>
 </p>
 
 ## How it will be released
 
 - **Google Play only**, starting with a beta test. There is no release date yet.
+- **The app will be free, with no ads.**
 - **The app is closed source.** This repository is a showcase: it holds no code and no builds.
 - Releases and news will be posted here when the beta opens.
 
