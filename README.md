@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="docs/images/teaser.png" width="820" alt="EQ Sweep - Tuning by ear, made easier. Coming soon.">
+  <a href="https://eqsweep.app/"><img src="docs/images/teaser.png" width="820" alt="EQ Sweep - Tuning by ear, made easier. Now in beta testing."></a>
 </p>
 
 <p align="center">
   An Android app for tuning your headphones by ear.<br>
-  <b>Coming soon to Google Play - free, with no ads.</b>
+  <b>Now in beta testing on Google Play - free, with no ads.</b><br>
+  <a href="https://eqsweep.app/">eqsweep.app</a> · <a href="https://eqsweep.app/#beta">Join the beta</a>
 </p>
 
-## How it will be released
+## How it is released
 
-- **Google Play only**, starting with a beta test. There is no release date yet.
+- **Google Play only.** The app is in a closed beta test now - [join it on eqsweep.app](https://eqsweep.app/#beta). There is no date for the public release yet.
 - **The app will be free, with no ads.**
 - **The app is closed source.** This repository is a showcase: it holds no code and no builds.
-- Releases and news will be posted here when the beta opens.
+- News and the public release: [eqsweep.app](https://eqsweep.app/).
 
 ## Licence and credits
 
