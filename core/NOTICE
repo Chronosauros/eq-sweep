@@ -1,0 +1,16 @@
+EQ Sweep core
+Modifications and new code copyright 2026 Chronosaur.
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes software derived from EQ by ear (https://github.com/DMS3tv/eqbyear),
+licensed under the Apache License, Version 2.0. Upstream names no copyright holder.
+Files derived from it, each ported from JavaScript to Kotlin and modified:
+
+  src/main/kotlin/app/eqsweep/core/Dsp.kt         from js/dsp.js
+  src/main/kotlin/app/eqsweep/core/Model.kt       from js/store.js and js/dsp.js
+  src/main/kotlin/app/eqsweep/core/Store.kt       from js/store.js
+  src/main/kotlin/app/eqsweep/core/Export.kt      from js/export.js
+  src/main/kotlin/app/eqsweep/audio/ToneSynth.kt  from js/audio.js
+
+Upstream licence statement: "DMS" and "EQ by ear" names and logo are not licensed for use on
+derived works. They appear here only to say where the code came from.
