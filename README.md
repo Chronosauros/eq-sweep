@@ -1,20 +1,23 @@
 <p align="center">
-  <a href="https://eqsweep.app/"><img src="docs/images/teaser.png" width="820" alt="EQ Sweep - Tuning by ear, made easier. Now in beta testing."></a>
+  <a href="https://eqsweep.app/"><img src="docs/images/teaser.png" width="820" alt="EQ Sweep - Tuning by ear, made easier. Now on Google Play."></a>
 </p>
 
 <p align="center">
   An Android app for tuning your headphones by ear.<br>
-  <b>Now in beta testing on Google Play - free, with no ads.</b><br>
-  <a href="https://eqsweep.app/">eqsweep.app</a> · <a href="https://eqsweep.app/#beta">Join the beta</a>
+  <b>Now on Google Play - free, with no ads.</b><br>
+  <a href="https://play.google.com/store/apps/details?id=app.eqsweep">Get it on Google Play</a> · <a href="https://eqsweep.app/">eqsweep.app</a>
 </p>
 
 ## How it is released
 
-- **Google Play only.** The app is in a closed beta test now - [join it on eqsweep.app](https://eqsweep.app/#beta). There is no date for the public release yet.
-- **The app will be free, with no ads.**
-- **The app is closed source.** This repository is a showcase with no builds. The only code in it is the
-  open-source [core](core/) - see below.
-- News and the public release: [eqsweep.app](https://eqsweep.app/).
+- **The app is free, with no ads.**
+- **Google Play:** [get EQ Sweep on Google Play](https://play.google.com/store/apps/details?id=app.eqsweep).
+- **APK:** every version's APK is in [Releases](../../releases/latest). To get updates automatically, use
+  [Obtainium](https://obtainium.imranr.dev/): tap Add app and paste `https://github.com/Chronosauros/eq-sweep`.
+  The APK is signed with a different key than the Google Play version, so switching between the two means
+  uninstalling first - your profiles carry over through a backup made with SAVE in the app.
+- **The app is closed source.** The only code in this repository is the open-source [core](core/) - see below.
+- News, and a version that runs in the browser: [eqsweep.app](https://eqsweep.app/) ([open it in the browser](https://eqsweep.app/web)).
 
 ## Licence and credits
 
