@@ -8,6 +8,20 @@
   <a href="https://play.google.com/store/apps/details?id=app.eqsweep">Get it on Google Play</a> · <a href="https://eqsweep.app/">eqsweep.app</a>
 </p>
 
+## EQ Sweep in short
+
+EQ Sweep is a free Android app for tuning headphones, IEMs and earbuds by ear. A clean test tone follows your finger from deep bass to treble, you mark START, TOP and END around what sounds too loud or too quiet, and each set of marks becomes a parametric EQ band (frequency, gain, Q). Up to 10 bands.
+
+It exports parametric EQ text for Equalizer APO, AutoEQ and Squiglink, and a GraphicEQ file for Wavelet. It does not apply the EQ system-wide by itself - you load the export into an EQ app, like Wavelet on Android or Equalizer APO on a PC.
+
+- The app is free, with no ads, no in-app purchases, no account and no internet permission.
+- The app is closed source. This repository holds only its open DSP core (EQ maths, export formats, test-tone synth) in the core folder, under the Apache License 2.0.
+- Current version: 1.1.1. In production on Google Play since 24 October 2026 - anyone can install it, no tester sign-up needed.
+- Google Play: https://play.google.com/store/apps/details?id=app.eqsweep
+- Website: https://eqsweep.app
+- Desktop version in the browser: https://eqsweep.app/web
+- Built on eqbyear by DMS (Apache-2.0). Not affiliated with or endorsed by DMS.
+
 ## How it is released
 
 - **The app is free, with no ads.**
